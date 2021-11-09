@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    background-color: #59b0e2;
+    color: #213832;
+    position: absolute;
+    top: 0;
+    margin: 0 auto;
+    width: 100%;
+    font-family: 'Barlow', sans-serif;
+    font-size: 64px;
+    left: 0px;
+}
+
+h2 {
+    font-family:'bitter', serif;
+    font-size: 48px;
+}
+
+p {
+    font-family: 'Red Hat Mono', monospace;
+    font-size: 16px;
+}
+
+.container { 
+    position: relative;
+    top: 66px;
+    border: 3px solid #000;
+    height: 450px;
+    margin: 0 auto;
+    display: block;
+}
+
+.inline-block {
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    margin: 0 30px;
+    clear: both;
+}
+
+.Dark-Green-Cyan-container {
+    background-color: #212832;
+    color:#ffffff;
+    height: 100px;
+}
+
+.light-Cornflower-blue-container {
+    background-color: #59B0E2;
+    color:#000000;
+    height: 100px;
+}
+
+.white-container {
+    background-color: #FFFFFF;
+    color:#000000;
+    border: 1px solid #000;
+    height: 100px;
+}
+
+.Dark-Cyan-Blue-container {
+    background-color: #102B49;
+    color:#ffffff;
+    height: 100px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.fonts {
+    position: relative;
+    top: 30px;
+    border: 3px solid #000;
+    height: 300px;
+    margin: 0 auto;
+    display: block;
+}
+
+.barlow {
+    font-family: 'Barlow', sans-serif;
+}
+
+.red-hat-mono {
+    font-family:'red hat mono', monospace;
+}
+
+.bitter{
+    font-family: 'Bitter', serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    text-decoration: italic;
+}
+
+.h1 {
+    font-family: 'Barlow', sans-serif;
+}
+
+.h2 {
+    font-family:'bitter', serif;
+}
+
+.p {
+    font-family: 'Red Hat Mono', monospace;
+}
+
+li {
+    font-size: 16px;
+}
