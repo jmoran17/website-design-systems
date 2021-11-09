@@ -46,12 +46,14 @@ p {
     background-color: #212832;
     color:#ffffff;
     height: 100px;
+    text-align: center;
 }
 
 .light-Cornflower-blue-container {
     background-color: #59B0E2;
     color:#000000;
     height: 100px;
+    text-align: center;
 }
 
 .white-container {
@@ -59,12 +61,14 @@ p {
     color:#000000;
     border: 1px solid #000;
     height: 100px;
+    text-align: center;
 }
 
 .Dark-Cyan-Blue-container {
     background-color: #102B49;
     color:#ffffff;
     height: 100px;
+    text-align: center;
 }
 
 .underline {
